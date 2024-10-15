@@ -1,0 +1,28 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+.vscode/
+.wrangler/
+.cache/
+
+# Local build overrides
+wrangler.toml.local
+wrangler.toml.development
+
+# Cloudflare Pages local dev
+.functions/
