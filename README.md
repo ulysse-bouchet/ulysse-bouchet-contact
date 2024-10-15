@@ -66,7 +66,7 @@ export default {
 
 ## Setup Instructions
 
-> Note: This project is tailored to be used for my personal website; the instructions below are for showcasing the setup process. Feel free to adapt the code to your needs.
+> Note : This project is tailored to be used for my personal website; the instructions below are for showcasing the setup process. Feel free to adapt the code to your needs.
 
 1. Clone the repository:
    ```bash
